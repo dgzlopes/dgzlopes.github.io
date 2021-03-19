@@ -10,7 +10,7 @@
 ## About
 Hi! I’m Daniel, a Site Reliability Engineer at k6.io (Load Impact).
 
-I'm also an open source contributor, amateur CTF [player](https://ctftime.org/user/9132), and avid tea drinker.
+I'm also an open source contributor, amateur CTF player, and avid tea drinker.
 
 ### Professional Interests
 
@@ -26,8 +26,8 @@ Also, I'm especially interested in Site Reliability Engineering (a specific impl
 
 ### Open source contributions
 
-- [Powerfulseal](https://github.com/bloomberg/powerfulseal) - Chaos Engineering tool for Kubernetes clusters.
 - [Tempo](https://github.com/grafana/tempo) - Open source, easy-to-use and high-scale distributed tracing backend.
+- [Powerfulseal](https://github.com/bloomberg/powerfulseal) - Chaos Engineering tool for Kubernetes clusters.
 - [OpenTelemetry](https://github.com/open-telemetry) - A single set of APIs, libraries, agents, and collector services to capture distributed traces and metrics from your application.
 
 <details  style="margin-left:1.2em;">
