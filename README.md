@@ -43,9 +43,9 @@ Also, I'm especially interested in Site Reliability Engineering (a specific impl
 - Load testing your Prometheus Remote Write endpoints.
    - At [PromCon 2021](https://promcon.io/2021-online/) - 05.2021 - Online - [video](https://www.youtube.com/watch?v=qrbmlTTthQk)/[slides](https://static.sched.com/hosted_files/promcononline2021/6d/LoadTestingRemoteWritePromcon.pdf)
 
-### Blog posts
+### Articles
 
-- [Grafana Labs Blog](https://grafana.com/blog/2021/05/04/get-started-with-distributed-tracing-and-grafana-tempo-using-foobar-a-demo-written-in-python/) - Get started with distributed tracing and Grafana Tempo using foobar, a demo written in Python.
+- [Grafana Labs blog](https://grafana.com/blog/2021/05/04/get-started-with-distributed-tracing-and-grafana-tempo-using-foobar-a-demo-written-in-python/) - Get started with distributed tracing and Grafana Tempo using foobar, a demo written in Python.
 
 ### Personal projects
 - [Trading-latency](https://dev.trading-latency.com/) - Latency monitoring between markets, brokers, and cloud providers.
