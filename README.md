@@ -46,6 +46,7 @@ Also, I'm especially interested in Site Reliability Engineering (a specific impl
 ### Blog posts
 
 - [Grafana Labs Blog](https://grafana.com/blog/2021/05/04/get-started-with-distributed-tracing-and-grafana-tempo-using-foobar-a-demo-written-in-python/) - Get started with distributed tracing and Grafana Tempo using foobar, a demo written in Python.
+
 ### Personal projects
 - [Trading-latency](https://dev.trading-latency.com/) - Latency monitoring between markets, brokers, and cloud providers.
 - [Termination-handler](https://github.com/dgzlopes/termination-handler) - Handle termination notices on spot/preemptible instances.
