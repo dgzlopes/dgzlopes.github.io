@@ -7,7 +7,7 @@
 
 ### Professional interests
 
-- Design, build, and operate large-scale systems.
+- Designing, building, and operating large-scale systems.
 - Observability.
 - Incident management and response.
 - Chaos Engineering.
