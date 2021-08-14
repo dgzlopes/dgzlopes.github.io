@@ -35,15 +35,12 @@
 
 ### Talks
 
-| Title  | Event  | Location  | Date | Links  |
-|---|---|---|---|---|
-| [Load testing your Prometheus Remote Write endpoints](https://sched.co/ibJ4)  | [PromCon 2021](https://promcon.io/2021-online/) | Virtual | 05.2021 | [video](https://www.youtube.com/watch?v=qrbmlTTthQk)/[slides](https://static.sched.com/hosted_files/promcononline2021/6d/LoadTestingRemoteWritePromcon.pdf) |
+- Load testing your Prometheus Remote Write endpoints.
+   - At [PromCon 2021](https://promcon.io/2021-online/) - 05.2021 - Online - [video](https://www.youtube.com/watch?v=qrbmlTTthQk)/[slides](https://static.sched.com/hosted_files/promcononline2021/6d/LoadTestingRemoteWritePromcon.pdf)
 
 ### Articles
 
-| Title  | Date | Links  |
-|---|---|---|
-| [Get started with distributed tracing and Grafana Tempo using foobar, a demo written in Python](https://grafana.com/blog/2021/05/04/get-started-with-distributed-tracing-and-grafana-tempo-using-foobar-a-demo-written-in-python/)  | 05.2021 | [Grafana Labs blog](https://grafana.com/blog/2021/05/04/get-started-with-distributed-tracing-and-grafana-tempo-using-foobar-a-demo-written-in-python/) |
+- [Grafana Labs blog](https://grafana.com/blog/2021/05/04/get-started-with-distributed-tracing-and-grafana-tempo-using-foobar-a-demo-written-in-python/) - Get started with distributed tracing and Grafana Tempo using foobar, a demo written in Python.
 
 ### Personal Projects
 - [Trading-latency](https://dev.trading-latency.com/) - Latency monitoring between markets, brokers, and cloud providers.
