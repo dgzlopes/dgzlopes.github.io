@@ -1,28 +1,23 @@
 # Daniel González Lopes
 
-**Site Reliability Engineer at k6.io**
+**Site Reliability Engineer at k6.io (Grafana Labs)**
 
 - **Github**: [dgzlopes](https://github.com/dgzlopes) 
 - **Email**: daniel at this domain
 
-*******
+### Professional interests
 
-## About
-Hi! I’m Daniel, a Site Reliability Engineer at k6.io (Load Impact).
-
-I'm also an open source contributor, amateur CTF player, and avid tea drinker.
-
-### Professional Interests
-
-I'm passionate about Software Engineering and Infrastructure/Operations. Some of my professional interests are:
-
-- Designing, building, and operating large-scale systems.
+- Design, build, and operate large-scale systems.
 - Observability.
 - Incident management and response.
 - Chaos Engineering.
 - Open Source.
 
-Also, I'm especially interested in Site Reliability Engineering (a specific implementation of DevOps) and it's principles.
+### Professional experience
+
+- [k6.io](https://k6.io/) - *adquired by Grafana Labs*
+   - Site Reliability Engineer (Jan 2021 - Present)
+   - Software Engineering Intern (Jun 2020 - Sep 2020)
 
 ### Open source contributions
 
@@ -40,14 +35,17 @@ Also, I'm especially interested in Site Reliability Engineering (a specific impl
 
 ### Talks
 
-- Load testing your Prometheus Remote Write endpoints.
-   - At [PromCon 2021](https://promcon.io/2021-online/) - 05.2021 - Online - [video](https://www.youtube.com/watch?v=qrbmlTTthQk)/[slides](https://static.sched.com/hosted_files/promcononline2021/6d/LoadTestingRemoteWritePromcon.pdf)
+| Title  | Event  | Location  | Date | Links  |
+|---|---|---|---|---|
+| [Load testing your Prometheus Remote Write endpoints](https://sched.co/ibJ4)  | [PromCon 2021](https://promcon.io/2021-online/) | Virtual | 05.2021 | [video](https://www.youtube.com/watch?v=qrbmlTTthQk)/[slides](https://static.sched.com/hosted_files/promcononline2021/6d/LoadTestingRemoteWritePromcon.pdf) |
 
 ### Articles
 
-- [Grafana Labs blog](https://grafana.com/blog/2021/05/04/get-started-with-distributed-tracing-and-grafana-tempo-using-foobar-a-demo-written-in-python/) - Get started with distributed tracing and Grafana Tempo using foobar, a demo written in Python.
+| Title  | Date | Links  |
+|---|---|---|
+| [Get started with distributed tracing and Grafana Tempo using foobar, a demo written in Python](https://grafana.com/blog/2021/05/04/get-started-with-distributed-tracing-and-grafana-tempo-using-foobar-a-demo-written-in-python/)  | 05.2021 | [Grafana Labs blog](https://grafana.com/blog/2021/05/04/get-started-with-distributed-tracing-and-grafana-tempo-using-foobar-a-demo-written-in-python/) |
 
-### Personal projects
+### Personal Projects
 - [Trading-latency](https://dev.trading-latency.com/) - Latency monitoring between markets, brokers, and cloud providers.
 - [Termination-handler](https://github.com/dgzlopes/termination-handler) - Handle termination notices on spot/preemptible instances.
 
@@ -63,4 +61,4 @@ Also, I'm especially interested in Site Reliability Engineering (a specific impl
 ### Misc
 I'm quite active in [OSM](https://www.openstreetmap.org/), I enjoy shooting instant film, I like beer tasting and lately, I've been learning how to boulder.
 
-<sub><sup>© 2020 Daniel González Lopes </a><a href="#" style="float: right;">Back to top</a></sup></sub>
+<sub><sup>© 2021 Daniel González Lopes </a><a href="#" style="float: right;">Back to top</a></sup></sub>
