@@ -41,7 +41,8 @@
 ### Articles
 
 - [Grafana Labs blog](https://grafana.com/blog/2021/05/04/get-started-with-distributed-tracing-and-grafana-tempo-using-foobar-a-demo-written-in-python/) - Get started with distributed tracing and Grafana Tempo using foobar, a demo written in Python.
-- [Grafana Labs blog](https://grafana.com/blog/2021/09/20/how-we-use-grafana-and-prometheus-to-monitor-the-traffic-of-our-many-github-repositories/) - How we use Grafana and Prometheus to monitor the traffic of our many GitHub repositories.
+- [Grafana Labs blog](https://grafana.com/blog/2021/09/20/how-we-use-grafana-and-prometheus-to-monitor-the-traffic-of-our-many-github-repositories/) - How we use Grafana and Prometheus to monitor the traffic of our many GitHub repositories.  
+
 ### Personal Projects
 - [Trading-latency](https://dev.trading-latency.com/) - Latency monitoring between markets, brokers, and cloud providers.
 - [Termination-handler](https://github.com/dgzlopes/termination-handler) - Handle termination notices on spot/preemptible instances.
