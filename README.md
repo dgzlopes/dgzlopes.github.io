@@ -21,17 +21,17 @@ Contributed to: Tons of k6-related projects, [Powerfulseal](https://github.com/b
 
 ### Talks
 
-- [Uptime](https://uptime.aiven.io/) - *Load test all the things with Grafana k6*
+- [Uptime](https://uptime.aiven.io/): Load test all the things with Grafana k6.
     - 09.2022 - Amsterdam, NL
-- [CNCF Asturias](https://community.cncf.io/asturias/) - *Practical Observability* 
+- [CNCF Asturias](https://community.cncf.io/asturias/): Practical Observability. 
     - 09.2021 - Online - [video](https://www.youtube.com/watch?v=404y_hE6ofk)
-- [PromCon](https://promcon.io/2021-online/) - *Load testing your Prometheus Remote Write endpoints*
+- [PromCon](https://promcon.io/2021-online/): Load testing your Prometheus Remote Write endpoints.
     - 05.2021 - Online - [video](https://www.youtube.com/watch?v=qrbmlTTthQk)/[slides](https://static.sched.com/hosted_files/promcononline2021/6d/LoadTestingRemoteWritePromcon.pdf)
 
 ### Articles
 
-- [Grafana Labs](https://grafana.com/blog/2021/05/04/get-started-with-distributed-tracing-and-grafana-tempo-using-foobar-a-demo-written-in-python/) - *Get started with distributed tracing and Grafana Tempo using foobar, a demo written in Python*
-- [Grafana Labs](https://grafana.com/blog/2021/09/20/how-we-use-grafana-and-prometheus-to-monitor-the-traffic-of-our-many-github-repositories/) - *How we use Grafana and Prometheus to monitor the traffic of our many GitHub repositories*
+- [Grafana Labs](https://grafana.com/blog/2021/05/04/get-started-with-distributed-tracing-and-grafana-tempo-using-foobar-a-demo-written-in-python/): Get started with distributed tracing and Grafana Tempo using foobar, a demo written in Python.
+- [Grafana Labs](https://grafana.com/blog/2021/09/20/how-we-use-grafana-and-prometheus-to-monitor-the-traffic-of-our-many-github-repositories/): How we use Grafana and Prometheus to monitor the traffic of our many GitHub repositories.
 
 ### Misc
 I enjoy playing tabletop games, shooting instant film, beer tasting and traveling.
