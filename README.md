@@ -42,4 +42,4 @@ I enjoy playing tabletop games, shooting instant film, beer tasting, and traveli
 
 Lately, I've been learning how to climb, lockpick, and fly FPV drones.
 
-<sub><sup>© 2021 Daniel González Lopes </a><a href="#" style="float: right;">Back to top</a></sup></sub>
+<sub><sup>© 2022 Daniel González Lopes </a><a href="#" style="float: right;">Back to top</a></sup></sub>
