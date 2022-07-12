@@ -7,11 +7,11 @@
 
 ### Professional interests
 - I love to work in everything that touches Product and Engineering. 
-- Observability, reliability, and open-source are some areas I'm particularly interested in.
+- Observability, reliability, and open source are some areas I'm particularly interested in.
 
 ### Professional experience
 
-- [k6.io](https://k6.io/) (Grafana Labs) - *Open-source reliability testing tool and SaaS*
+- [k6.io](https://k6.io/) (Grafana Labs) - *Open source reliability testing tool and SaaS*
    - Technical Program Manager (Jul 2022 - Present)
    - Site Reliability Engineer (Jan 2021 - Jul 2022)
    - Software Engineering Intern (Jun 2020 - Sep 2020)
@@ -38,8 +38,8 @@ Contributed to: Tons of k6-related projects, [Powerfulseal](https://github.com/b
 - [Grafana Labs](https://grafana.com/blog/2021/09/20/how-we-use-grafana-and-prometheus-to-monitor-the-traffic-of-our-many-github-repositories/): How we use Grafana and Prometheus to monitor the traffic of our many GitHub repositories.
 
 ### Misc
-I enjoy playing tabletop games, shooting instant film, beer tasting and traveling.
+I enjoy playing tabletop games, shooting instant film, beer tasting, and traveling.
 
-Lately, I’ve been learning how to climb and fly FPV drones.
+Lately, I've been learning how to climb, lockpick, and fly FPV drones.
 
 <sub><sup>© 2021 Daniel González Lopes </a><a href="#" style="float: right;">Back to top</a></sup></sub>
