@@ -17,7 +17,7 @@
 - [Grafana Tempo](https://github.com/grafana/tempo) - *Open source, easy-to-use and high-scale distributed tracing backend*
    - Maintainer (Feb 2021 - Jul 2022)
 
-Contributed to: Tons of k6-related projects, [Powerfulseal](https://github.com/bloomberg/powerfulseal), [Detect-secrets](https://github.com/Yelp/detect-secrets), [Liftbridge](https://github.com/liftbridge-io), etc.
+Contributed to: Tons of k6-related projects, [Detect-secrets](https://github.com/Yelp/detect-secrets), [Powerfulseal](https://github.com/bloomberg/powerfulseal), etc.
 
 ### Articles
 
@@ -25,8 +25,8 @@ Contributed to: Tons of k6-related projects, [Powerfulseal](https://github.com/b
 - [Grafana Labs](https://grafana.com/blog/2021/09/20/how-we-use-grafana-and-prometheus-to-monitor-the-traffic-of-our-many-github-repositories/): How we use Grafana and Prometheus to monitor the traffic of our many GitHub repositories.
 
 ### Misc
-I enjoy playing tabletop games, shooting instant film, beer tasting, and traveling.
+I enjoy playing tabletop games, shooting instant film, tasting beer, and traveling.
 
-Lately, I've been learning how to climb, ride motorcycles, and fly FPV drones.
+Lately, I've been learning to climb, ride motorcycles, and fly FPV drones.
 
 <sub><sup>© 2023 Daniel González Lopes </a><a href="#" style="float: right;">Back to top</a></sup></sub>
