@@ -8,7 +8,8 @@
 ### Professional experience
 
 - [Grafana Labs, k6](https://k6.io/) - *Open source reliability testing tool and SaaS*
-   - Technical Program Manager (Jul 2022 - Present)
+   - Senior Technical Program Manager (May 2023 - Present)
+   - Technical Program Manager (Jul 2022 - May 2023)
    - Site Reliability Engineer (Jan 2021 - Jul 2022)
    - Software Engineering Intern (Jun 2020 - Sep 2020)
 
