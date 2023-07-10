@@ -1,6 +1,6 @@
 # Daniel González Lopes
 
-**Technical Program Manager at k6.io (Grafana Labs)**
+**Product & Engineering at Grafana Labs, k6**
 
 - **Github**: [dgzlopes](https://github.com/dgzlopes) 
 - **Email**: daniel at this domain
@@ -11,7 +11,7 @@
 
 ### Professional experience
 
-- [k6.io](https://k6.io/) (Grafana Labs) - *Open source reliability testing tool and SaaS*
+- [Grafana Labs, k6](https://k6.io/) - *Open source reliability testing tool and SaaS*
    - Technical Program Manager (Jul 2022 - Present)
    - Site Reliability Engineer (Jan 2021 - Jul 2022)
    - Software Engineering Intern (Jun 2020 - Sep 2020)
@@ -23,15 +23,6 @@
 
 Contributed to: Tons of k6-related projects, [Powerfulseal](https://github.com/bloomberg/powerfulseal), [Detect-secrets](https://github.com/Yelp/detect-secrets), [Liftbridge](https://github.com/liftbridge-io), etc.
 
-### Talks
-
-- [Uptime](https://uptime.aiven.io/): Load test all the things with Grafana k6.
-    - 09.2022 - Amsterdam, NL
-- [CNCF Asturias](https://community.cncf.io/asturias/): Practical Observability. 
-    - 09.2021 - Online - [video](https://www.youtube.com/watch?v=404y_hE6ofk)
-- [PromCon](https://promcon.io/2021-online/): Load testing your Prometheus Remote Write endpoints.
-    - 05.2021 - Online - [video](https://www.youtube.com/watch?v=qrbmlTTthQk)/[slides](https://static.sched.com/hosted_files/promcononline2021/6d/LoadTestingRemoteWritePromcon.pdf)
-
 ### Articles
 
 - [Grafana Labs](https://grafana.com/blog/2021/05/04/get-started-with-distributed-tracing-and-grafana-tempo-using-foobar-a-demo-written-in-python/): Get started with distributed tracing and Grafana Tempo using foobar, a demo written in Python.
@@ -40,6 +31,6 @@ Contributed to: Tons of k6-related projects, [Powerfulseal](https://github.com/b
 ### Misc
 I enjoy playing tabletop games, shooting instant film, beer tasting, and traveling.
 
-Lately, I've been learning how to climb, lockpick, and fly FPV drones.
+Lately, I've been learning how to climb, ride motorcycles, and fly FPV drones.
 
-<sub><sup>© 2022 Daniel González Lopes </a><a href="#" style="float: right;">Back to top</a></sup></sub>
+<sub><sup>© 2023 Daniel González Lopes </a><a href="#" style="float: right;">Back to top</a></sup></sub>
