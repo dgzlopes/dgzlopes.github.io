@@ -5,10 +5,6 @@
 - **Github**: [dgzlopes](https://github.com/dgzlopes) 
 - **Email**: daniel at this domain
 
-### Professional interests
-- I love to work in everything that touches Product and Engineering. 
-- Observability, reliability, and open source are some areas I'm particularly interested in.
-
 ### Professional experience
 
 - [Grafana Labs, k6](https://k6.io/) - *Open source reliability testing tool and SaaS*
