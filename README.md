@@ -1,5 +1,7 @@
 # Daniel González Lopes
 
+<img src="public/daniel.jpeg" width="150"> *<-- Me, in Belgium, after eating a waffle (it was a great waffle)*.
+
 **Product & Engineering at Grafana Labs, k6**
 
 - **GitHub**: [dgzlopes](https://github.com/dgzlopes) 
