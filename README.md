@@ -4,7 +4,7 @@
 
 - **GitHub**: [dgzlopes](https://github.com/dgzlopes) 
 - **LinkedIn**: [danielgonzalezlopes](https://www.linkedin.com/in/danielgonzalezlopes/)
-- **Email**: daniel at this domain
+- **Email**: my linkedin username at gmail dot com
 
 ### A few professional things about me
 - I love to work in everything that touches Product and Engineering. 
