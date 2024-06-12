@@ -2,7 +2,7 @@
 
 **Product & Engineering at Grafana Labs, k6**
 
-- **Github**: [dgzlopes](https://github.com/dgzlopes) 
+- **GitHub**: [dgzlopes](https://github.com/dgzlopes) 
 - **LinkedIn**: [danielgonzalezlopes](https://www.linkedin.com/in/danielgonzalezlopes/)
 - **Email**: daniel at this domain
 
