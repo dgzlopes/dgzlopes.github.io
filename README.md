@@ -10,7 +10,7 @@
 
 ### A few professional things about me
 - I love to work in everything that touches Product and Engineering. 
-- Observability, Reliability, DevTools, and Open Source are some areas I'm particularly interested in.
+- Focus areas: Observability, Reliability, DevTools, DevEx, and Open Source.
 
 ### A few personal things about me
 - I enjoy playing tabletop games, shooting instant film, tasting beer, and traveling.
