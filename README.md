@@ -2,11 +2,13 @@
 
 <img src="public/daniel.jpeg" width="150"> *<-- Me, in Belgium, after eating a waffle (it was a great waffle)*.
 
-**Product & Engineering at Grafana Labs, k6**
-
 - **GitHub**: [dgzlopes](https://github.com/dgzlopes) 
 - **LinkedIn**: [danielgonzalezlopes](https://www.linkedin.com/in/danielgonzalezlopes/)
 - **Email**: my linkedin username at gmail dot com
+
+During the day, I work at Grafana Labs on k6, doing all kinds of Product/Engineering stuff.
+
+On the side, I have been building [Stacker](https://stackerjs.com/) for a while.
 
 ### A few professional things about me
 - I love to work in everything that touches Product and Engineering. 
