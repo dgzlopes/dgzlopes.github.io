@@ -1,6 +1,6 @@
 # Daniel González Lopes
 
-<img src="public/daniel.jpeg" width="150"> *<-- Me, in Belgium, after eating a waffle (it was a great waffle)*.
+<img src="public/daniel.png" width="150"> *<-- Me, somewhere in the middle of nowhere.*
 
 - **GitHub**: [dgzlopes](https://github.com/dgzlopes) 
 - **LinkedIn**: [danielgonzalezlopes](https://www.linkedin.com/in/danielgonzalezlopes/)
