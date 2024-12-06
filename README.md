@@ -1,21 +1,38 @@
-# Daniel González Lopes
+# sv
 
-<img src="public/daniel.png" width="150"> *<-- Me, somewhere in the middle of nowhere.*
+Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
 
-- **GitHub**: [dgzlopes](https://github.com/dgzlopes) 
-- **LinkedIn**: [danielgonzalezlopes](https://www.linkedin.com/in/danielgonzalezlopes/)
-- **Email**: my linkedin username at gmail dot com
+## Creating a project
 
-During the day, I work at Grafana Labs on k6, doing all kinds of Product/Engineering stuff.
+If you're seeing this, you've probably already done this step. Congrats!
 
-On the side, I have been building [Stacker](https://stackerjs.com/) for a while.
+```bash
+# create a new project in the current directory
+npx sv create
 
-### A few professional things about me
-- I love to work in everything that touches Product and Engineering. 
-- Focus areas: Observability, Reliability, DevTools, DevEx, and Open Source.
+# create a new project in my-app
+npx sv create my-app
+```
 
-### A few personal things about me
-- I enjoy playing tabletop games, shooting instant film, tasting beer, and traveling.
-- Lately, I've been learning to climb, ride motorcycles, and fly FPV drones.
+## Developing
 
-<sub><sup>© 2024 Daniel González Lopes </a><a href="#" style="float: right;">Back to top</a></sup></sub>
+Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+
+```bash
+npm run dev
+
+# or start the server and open the app in a new browser tab
+npm run dev -- --open
+```
+
+## Building
+
+To create a production version of your app:
+
+```bash
+npm run build
+```
+
+You can preview the production build with `npm run preview`.
+
+> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
