@@ -16,7 +16,7 @@
         <h1 class="text-3xl sm:text-5xl font-bold text-gray-800">Daniel González Lopes</h1>
         <hr class="w-[200px] sm:w-[300px] md:w-[600px] mt-2 mb-4 border-dashed" />
         <p class="text-xl sm:text-2xl font-medium text-gray-700 mt-2">
-          Staff TPM at <a
+          Staff SWE at <a
             href="https://grafana.com/"
             class="font-medium text-titan-500 hover:text-titan-600"
             >Grafana Labs</a
