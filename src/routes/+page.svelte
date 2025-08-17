@@ -92,7 +92,7 @@
         </div>
       </div>
       <p class="text-xs text-gray-600 mt-6 mb-4 ml-2 text-center italic">
-        ↑ Me and my car at the Nürburgring // Me and some delicious bread I baked ↑
+        ↑ Nürburgring // Bread ↑
       </p>
     </div>
   </div>
