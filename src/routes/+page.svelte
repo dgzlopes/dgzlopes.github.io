@@ -9,7 +9,7 @@
     <div
       class="flex flex-col justify-center items-center bg-gray-50 w-full border-b"
     >
-      <div class="px-4 sm:px-16 w-full md:w-[700px] mt-20 mb-8">
+      <div class="px-4 sm:px-16 w-full md:w-[800px] mt-20 mb-8">
         <img
           src={profile}
           alt="profile"
@@ -39,7 +39,7 @@
       </div>
     </div>
 
-    <div class="px-4 sm:px-16 mt-8 w-full md:w-[700px]">
+    <div class="px-4 sm:px-16 mt-8 w-full md:w-[800px]">
       <div>
         <h2 class="text-lg sm:text-xl font-bold text-gray-800 mt-3">What I do</h2>
         <ul class="list-disc list-inside text-base text-gray-700 mt-2">
